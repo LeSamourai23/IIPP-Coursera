@@ -1,4 +1,4 @@
-import simpleguitk as simplegui
+import simpleguitk as simplegui    #Import as simplegui only in codeskulptor
 
 #Draw a diagnol line on the screen
 def draw_a_line_handler(canvas):
